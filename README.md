@@ -4,7 +4,7 @@
 
 **Author:** Harmony Pham  
 **Role:** Business Analyst  
-**Tools Used:** SQL (CTEs, Window Functions, Aggregations), Power BI  
+**Tools Used:** SQL (CTEs, Window Functions, Aggregations)  
 **Focus Areas:** Time-based analysis, product performance, customer segmentation, revenue growth
 
 ---
