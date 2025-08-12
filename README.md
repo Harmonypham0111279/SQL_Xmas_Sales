@@ -57,11 +57,11 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 
 | Year | Best-Selling Product | Top Revenue Product | Highest Profit Product |
 |------|----------------------|---------------------|------------------------|
-| 2022 | JBL Speaker          | JBL Speaker         | JBL Speaker            |
-| 2021 | Harry Potter Puzzle  | Harry Potter Puzzle | Harry Potter Puzzle    |
-| 2020 | LEGO Set             | LEGO Set            | LEGO Set               |
-| 2019 | Barbie Doll          | Barbie Doll         | Barbie Doll            |
-| 2018 | Hot Wheels Car Set   | Hot Wheels Car Set  | Hot Wheels Car Set     |
+| 2022 | DC Comics Graphic Novel| JBL Headphones      | JBL Headphones            |
+| 2021 | Harry Potter Puzzle    | Harry Potter Puzzle | Harry Potter Puzzle    |
+| 2020 | Harry Potter Puzzle    | LEGO Set            | LEGO Set               |
+| 2019 | Barbie Doll            | Barbie Doll         | Barbie Doll            |
+| 2018 | Hot Wheels Car Set     | Hot Wheels Car Set  | Hot Wheels Car Set     |
 
 ### 🛍️ Channel Analysis
 - In-store purchases consistently outperformed online channels across all five years
@@ -78,19 +78,19 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 
 | Christmas Season | Revenue ($M) | YoY Growth (%) |
 |------------------|--------------|----------------|
-| 2019–2020        | 12.34        | +13.5%         |
-| 2020–2021        | 14.92        | +20.9%         |
-| 2021–2022        | 16.78        | +12.5%         |
+| 2019–2020        | 6.95        | -3.2%         |
+| 2020–2021        | 7.08        | +1.5%         |
+| 2021–2022        | 7.09        | +1.9%         |
 
 ### 🌍 Top Growth Markets (2021 YoY)
 
 | Country        | YoY Growth (%) |
 |----------------|----------------|
-| Belgium        | +51.2%         |
-| Netherlands    | +43.1%         |
-| Austria        | +39.4%         |
-| United Kingdom | +37.9%         |
-| Italy          | +35.4%         |
+| Belgium        | +12.6%         |
+| Netherlands    | +7.8%         |
+| Austria        | +5.6%         |
+| United Kingdom | +4.9%         |
+| Italy          | +4.4%         |
 
 ### 📅 Peak Spending Period
 - December 10–20 consistently shows the highest spike in both sales and profit
