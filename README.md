@@ -111,7 +111,7 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 
 **Author:** Harmony Pham  
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harmony-pham-362193235/)  
-**GitHub Portfolio:** [Visit my profile](https://github.com/)  
+**GitHub Portfolio:** [Visit my profile](https://github.com/Harmonypham0111279)  
 
 For collaboration, feedback, or portfolio reviews, feel free to reach out!
 
