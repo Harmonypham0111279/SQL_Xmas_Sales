@@ -11,7 +11,12 @@
 
 ## 1️⃣ Background and Overview
 
-This project analyzes five years of Christmas season sales data to uncover trends in product performance, customer behavior, and regional growth. The goal is to deliver actionable insights for marketing strategy and campaign planning.
+This project analyzes five years of Christmas season sales data (2018–2022) from Adventure Works using advanced SQL techniques. The goal was to uncover actionable insights into seasonal buying behavior, regional performance, and customer segmentation to inform strategic marketing and inventory decisions.
+
+Key outcomes include:
+• 	Identification of high-growth markets (e.g., Belgium, Netherlands) and top-performing product categories.
+• 	Discovery of peak shopping windows and dominant sales channels (in-store vs. online).
+• 	Segmentation of customer behavior by age, gender, and geography to support targeted campaigns.
 
 The analysis defines the "Christmas Season" as **November to January**, with **January reassigned to the previous year** to reflect actual shopping behavior.
 
