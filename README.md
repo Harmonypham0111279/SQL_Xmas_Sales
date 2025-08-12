@@ -21,7 +21,7 @@ The analysis defines the "Christmas Season" as **November to January**, with **J
 
 The dataset `dbo.xmas_sales` includes transactional records for holiday purchases across multiple countries. A reusable SQL view `v_xmas_sales` was created to enrich time-based features and streamline analysis.
 
-### 📁 Key Dimensions
+### Key Dimensions
 
 | Dimension Type     | Attributes Included                                      |
 |--------------------|----------------------------------------------------------|
@@ -48,12 +48,12 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 
 ## 4️⃣ Insights Deep Dive
 
-### 🕒 Time Dimensions
+### Time Dimensions
 - Defined "Christmas Year" using SQL logic to group Nov–Jan
 - Created enriched view `v_xmas_sales` with weekday names, hours, and season logic
 - Identified peak shopping hours: 12 PM–6 PM
 
-### 🧸 Product Performance
+### Product Performance
 
 | Year | Best-Selling Product | Top Revenue Product | Highest Profit Product |
 |------|----------------------|---------------------|------------------------|
@@ -63,10 +63,10 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 | 2019 | Barbie Doll            | Barbie Doll         | Barbie Doll            |
 | 2018 | Hot Wheels Car Set     | Hot Wheels Car Set  | Hot Wheels Car Set     |
 
-### 🛍️ Channel Analysis
+### Channel Analysis
 - In-store purchases consistently outperformed online channels across all five years
 
-### 👥 Customer Segmentation
+### Customer Segmentation
 
 | Segment        | Top Performer |
 |----------------|----------------|
@@ -74,7 +74,7 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 | Gender         | Female         |
 | Top Countries  | Sweden, Netherlands, Germany |
 
-### 💰 Revenue Growth by Season
+### Revenue Growth by Season
 
 | Christmas Season | Revenue ($M) | YoY Growth (%) |
 |------------------|--------------|----------------|
@@ -82,7 +82,7 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 | 2020–2021        | 7.08        | +1.5%         |
 | 2021–2022        | 7.09        | +1.9%         |
 
-### 🌍 Top Growth Markets (2021 YoY)
+### Top Growth Markets (2021 YoY)
 
 | Country        | YoY Growth (%) |
 |----------------|----------------|
@@ -92,7 +92,7 @@ The dataset `dbo.xmas_sales` includes transactional records for holiday purchase
 | United Kingdom | +4.9%         |
 | Italy          | +4.4%         |
 
-### 📅 Peak Spending Period
+### Peak Spending Period
 - December 10–20 consistently shows the highest spike in both sales and profit
 
 ---
